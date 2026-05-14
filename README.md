@@ -62,8 +62,8 @@ Hi, I m shakir ali. Speciallist in book formatting, Magzine design
 <section>
   <h2>About Me</h2>
   <p>
-    Mera naam Shakir Ali hai. Main ek passionate book writer aur professional book formatter hoon.
-    Main logon ke ideas ko ek structured aur professional book me convert karta hoon.
+    This is Shakir Ali. I'm a passionate book writer and professional book formatter.
+    logon ideas and structured professional book converter.
   </p>
 </section>
 
