@@ -52,8 +52,8 @@ border-radius:10px;
 <body>
 
 <header>
-<img src="profile.jpg">
-<h1>Shakir Ali</h1>
+<img src="1000118516.jpg">
+<h1>Shakir Ali ।  शाकिर अली</h1>
 <p>Author | Book Formatter</p>
 </header>
 
@@ -103,7 +103,7 @@ border-radius:10px;
 <h2>📞 Contact</h2>
 <div class="card">
 <p>📱 WhatsApp: <a href="https://wa.me/91XXXXXXXXXX">Click Here</a></p>
-<p>📷 Instagram: <a href="#">Your Instagram</a></p>
+<p>📷 Instagram: <a href="#">imshakiralii</a></p>
 </div>
 </section>
 
