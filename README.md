@@ -62,7 +62,7 @@ border-radius:10px;
 <section>
 <h2>👤 Introduction</h2>
 <div class="card">
-<p>Main ek author aur professional book formatter hoon. Mai Hindi aur Urdu content likhta hoon aur logon ke liye books design karta hoon.</p>
+<p>I'm a author of Duniya ek kitab hai book and professional book formatter. I'm also content writer in language Hindi, Urdu and English for public.</p>
 </div>
 </section>
 
